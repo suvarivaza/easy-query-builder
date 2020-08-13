@@ -354,7 +354,6 @@ class EasyQueryBuilder
         $this->type = null;
         $this->data = null;
         $this->error = null;
-        $this->error = null;
         $this->count = null;
 
         return $this;
