@@ -103,9 +103,9 @@ You can take data in format as supports PDO:
 
 ```
 'assoc' = PDO::FETCH_ASSOC
-'obj' => PDO::FETCH_OBJ
-'both' => PDO::FETCH_BOTH
-'num' => PDO::FETCH_NUM
+'obj' = PDO::FETCH_OBJ
+'both' = PDO::FETCH_BOTH
+'num' = PDO::FETCH_NUM
 ```
 
 Examples:
