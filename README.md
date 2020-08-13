@@ -101,10 +101,12 @@ Operator supports: '=', '<', '>', '<=', '>='
 Methods **RESULT** and **RESULTS** gets the argument fatch data type.
 You can take data in format as supports PDO:
 
+```
 'assoc' = PDO::FETCH_ASSOC
 'obj' => PDO::FETCH_OBJ
 'both' => PDO::FETCH_BOTH
 'num' => PDO::FETCH_NUM
+```
 
 Examples:
 
