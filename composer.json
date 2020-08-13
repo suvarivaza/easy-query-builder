@@ -1,0 +1,18 @@
+{
+    "name": "suvarivaza/easy-query-builder",
+    "type": "library",
+    "description": "It is a easy query builder that includes basic methods for working with a database.",
+    "keywords": ["database", "SQL", "query builder"],
+    "homepage": "https://github.com/suvarivaza/easy-query-builder",
+    "license": "Apache-2.0",
+    "authors": [{"name": "suvarivaza", "email": "42-36-42@mail.ru"}],
+    "support": {
+        "email": "42-36-42@mail.ru"
+    },
+    "require": {
+        "php": "^5.6 || ^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7 || 6.3.*"
+    },
+}
