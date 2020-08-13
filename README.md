@@ -18,7 +18,8 @@ In all requests used by PDO API and prepared queries.
 
 **Installation**
 
-This is a Composer package. You can install this package with the following command: composer require suvarivaza/easy-query-builder
+This is a Composer package. You can install this package with the following command: 
+**composer require suvarivaza/easy-query-builder**
 
 
 **Usage**
@@ -100,10 +101,12 @@ Operator supports: '=', '<', '>', '<=', '>='
 Methods **RESULT** and **RESULTS** gets the argument fatch data type.
 You can take data in format as supports PDO:
 
+```
 'assoc' = PDO::FETCH_ASSOC
-'obj' => PDO::FETCH_OBJ
-'both' => PDO::FETCH_BOTH
-'num' => PDO::FETCH_NUM
+'obj' = PDO::FETCH_OBJ
+'both' = PDO::FETCH_BOTH
+'num' = PDO::FETCH_NUM
+```
 
 Examples:
 
