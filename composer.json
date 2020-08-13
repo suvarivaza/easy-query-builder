@@ -12,10 +12,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "repositories": [
-        {
-            "type":"git",
-            "url": "https://github.com/suvarivaza/easy-query-builder"
+    "autoload": {
+        "psr-4": {
+            "Suvarivaza\\QB\\": "src/"
         }
-    ]
+    }
 }
