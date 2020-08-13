@@ -2,6 +2,7 @@
     "name": "suvarivaza/easy-query-builder",
     "description": "It is a easy query builder that includes basic methods for working with a database",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "suvarivaza",
