@@ -1,24 +1,12 @@
 {
-    "name": "suvarivaza/easy-query-builder",
+    "name": "suvarivaza/easy_query_builder",
     "description": "It is a easy query builder that includes basic methods for working with a database",
-    "keywords": ["database", "SQL", "query builder"],
     "type": "library",
-    "license": "MIT",
-    "homepage": "https://github.com/suvarivaza/easy-query-builder",
     "authors": [
         {
             "name": "suvarivaza",
             "email": "42-36-42@mail.ru"
         }
     ],
-    "minimum-stability": "dev",
-    "autoload": {
-        "psr-4": {
-            "Suvarivaza\\QB\\": "src/"
-        }
-    },
-  "require" : {
-    "ext-pdo": "*"
-  }
+    "require": {}
 }
-
