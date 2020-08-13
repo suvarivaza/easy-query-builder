@@ -7,7 +7,6 @@ namespace Suvarivaza\QB;
 use PDO;
 use PDOException;
 
-
 class EasyQueryBuilder
 {
 
@@ -354,6 +353,7 @@ class EasyQueryBuilder
         $this->sql = '';
         $this->type = null;
         $this->data = null;
+        $this->error = null;
         $this->error = null;
         $this->count = null;
 
