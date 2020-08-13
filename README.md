@@ -18,7 +18,8 @@ In all requests used by PDO API and prepared queries.
 
 **Installation**
 
-This is a Composer package. You can install this package with the following command: composer require suvarivaza/easy-query-builder
+This is a Composer package. You can install this package with the following command: 
+**composer require suvarivaza/easy-query-builder**
 
 
 **Usage**
