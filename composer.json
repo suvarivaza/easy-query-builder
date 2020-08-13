@@ -13,7 +13,10 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {
-        "suvarivaza/easy-query-builder": "dev-master"
-    }
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/suvarivaza/easy-query-builder"
+        }
+    ]
 }
