@@ -16,6 +16,9 @@
         "psr-4": {
             "Suvarivaza\\QB\\": "src/"
         }
-    }
+    },
+  "require" : {
+    "ext-pdo": "*"
+  }
 }
 
