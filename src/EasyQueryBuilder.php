@@ -7,6 +7,7 @@ namespace Suvarivaza\QB;
 use PDO;
 use PDOException;
 
+
 class EasyQueryBuilder
 {
 
