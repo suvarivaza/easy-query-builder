@@ -1,4 +1,4 @@
-# easy-query-builder
+# EasyQueryBuilder
 
 **About**
 
