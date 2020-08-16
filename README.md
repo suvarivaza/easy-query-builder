@@ -1,5 +1,5 @@
+<<<<<<< HEAD
 # EasyQueryBuilder
-
 
 
 **About**
@@ -151,3 +151,4 @@ The DELETE method takes a table name as a parameter.
 ```
 $db->delete('table')->where('id', '=', '1');
 ```
+
