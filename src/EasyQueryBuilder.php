@@ -93,7 +93,6 @@ class EasyQueryBuilder
         return $this;
     }
 
-
     /**
      * FROM
      * Gets the argument - table name
